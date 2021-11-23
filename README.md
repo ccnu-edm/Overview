@@ -10,9 +10,9 @@ LSKT:                              [paper] [code](https://github.com/ccnu-edm/LS
 
 
 ## Deep Cognitive Diagnosis
-
-SACD:                              [paper] [code](https://github.com/ccnu-edm/SACD)  
 DCDM:                              [paper] [code](https://github.com/ccnu-edm/DCDM)  
+SACD:                              [paper] [code](https://github.com/ccnu-edm/SACD)  
+
 
 
 
