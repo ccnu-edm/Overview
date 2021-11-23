@@ -4,13 +4,14 @@
 
 ## Knowledge Tracking
 
-CPKT:                              [paper] [code]  LSKT:                              [paper] [code]
+CPKT:                              [paper] [code]  
+LSKT:                              [paper] [code]
 
 
 
 ## Deep Cognitive Diagnosis
 
-SACD:                              [paper] [code]
+SACD:                              [paper] [code]  
 DCDM:                              [paper] [code]
 
 
