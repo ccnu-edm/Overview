@@ -4,7 +4,7 @@
 
 ## Knowledge Tracking
 
-CPKT:                              [paper] [code]  
+CPKT:                              [paper] [code](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)    
 LSKT:                              [paper] [code]
 
 
