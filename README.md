@@ -4,15 +4,15 @@
 
 ## Knowledge Tracking
 
-CPKT:                              [paper] [code](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)    
-LSKT:                              [paper] [code]
+CPKT:                              [paper] [code](https://github.com/ccnu-edm/CPKT)    
+LSKT:                              [paper] [code](https://github.com/ccnu-edm/LSKT)    
 
 
 
 ## Deep Cognitive Diagnosis
 
-SACD:                              [paper] [code]  
-DCDM:                              [paper] [code]
+SACD:                              [paper] [code](https://github.com/ccnu-edm/SACD)  
+DCDM:                              [paper] [code](https://github.com/ccnu-edm/DCDM)  
 
 
 
