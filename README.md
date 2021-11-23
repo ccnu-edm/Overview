@@ -4,9 +4,7 @@
 
 ## Knowledge Tracking
 
-CPKT:                              [paper] [code]
-
-LSKT:                              [paper] [code]
+CPKT:                              [paper] [code]  LSKT:                              [paper] [code]
 
 
 
