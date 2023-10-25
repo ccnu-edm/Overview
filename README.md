@@ -25,4 +25,8 @@ SACD:                              [paper] [code](https://github.com/ccnu-edm/SA
 
  PQSCT: [PQSCT: Pseudo-Siamese BERT for Concept Tagging With Both Questions and Solutions](https://ieeexplore.ieee.org/abstract/document/10123979) | [code](https://github.com/ccnu-edm/PQSCT) 
 
+SOMPT: [Sequence Generation Model Integrating Domain Ontology for Mathematical question tagging](https://dl.acm.org/doi/10.1145/3593804)
+
+
+
 ## Others
