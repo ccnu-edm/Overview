@@ -10,7 +10,7 @@ FKT:  [Response Speed Enhanced Fine-grained Knowledge Tracing: A Multi-task Lear
 
 TSKT:  [Heterogeneous Graph-based Knowledge Tracing  with Spatiotemporal Evolution](https://www.sciencedirect.com/science/article/abs/pii/S0957417423027513)
 
-CPKT:                              [paper] [code](https://github.com/ccnu-edm/CPKT)    
+MCKT:  [Modeling Working Memory Using Convolutional Neural Networks for Knowledge Tracing](https://link.springer.com/chapter/10.1007/978-981-99-4742-3_11)|[code](https://github.com/ccnu-edm/CPKT)    
 LSKT:                              [paper] [code](https://github.com/ccnu-edm/LSKT)    
 
 ## Deep Cognitive Diagnosis
