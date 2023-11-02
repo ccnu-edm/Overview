@@ -8,7 +8,7 @@ We are doing preliminary sorting, please continue to pay attention!
 
 FKT:  [Response Speed Enhanced Fine-grained Knowledge Tracing: A Multi-task Learning Perspective](https://www.sciencedirect.com/science/article/abs/pii/S095741742302609X) | [code](https://github.com/ccnu-edm/FKT) 
 
-TSKT:  Heterogeneous Graph-based Knowledge Tracing  with Spatiotemporal Evolution
+TSKT:  [Heterogeneous Graph-based Knowledge Tracing  with Spatiotemporal Evolution](https://www.sciencedirect.com/science/article/abs/pii/S0957417423027513)
 
 CPKT:                              [paper] [code](https://github.com/ccnu-edm/CPKT)    
 LSKT:                              [paper] [code](https://github.com/ccnu-edm/LSKT)    
